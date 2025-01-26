@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const emailButton = document.querySelector(".contact-button");
   if (emailButton) {
     emailButton.addEventListener("click", () => {
-      window.location.href = "mailto:your-email@example.com";
+      window.location.href = "mailto:ghogarevaishnavi8@example.com";
     });
   }
 });
